@@ -1,2 +1,3 @@
-# Device_tree_spc_s16_flazz_sc7731g
-Device Tree For Compiling Custom Recovery Based CM-11.0 source
+# android_device_revo_3204
+
+Device Tree For Compiling Custom Recovery Based CM-11.0 source for SC7731G SC8830
